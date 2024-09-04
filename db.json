@@ -27,6 +27,13 @@
 			"username": "Fushion",
 			"email": "gracefunsho@gmail.com",
 			"number": "09033333333"
+		},
+		{
+			"id": 5,
+			"name": "Adam Kowalski",
+			"username": "Adamczyk",
+			"email": "adam@gmail.com",
+			"number": "123456789"
 		}
 	]
 }
